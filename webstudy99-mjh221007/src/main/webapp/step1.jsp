@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>home</title>
+<title>Insert title here</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet"
@@ -20,7 +20,9 @@
 </head>
 <body>
 <div class="container pt-3">
-main1 ui 작업
+step1 이야 임마 ㅋ
+
+
 </div>
 </body>
 </html>
